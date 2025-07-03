@@ -1,0 +1,877 @@
+[
+  {
+    "id": 1,
+    "name": "Addison Tote Bag - Black",
+    "category": "bag",
+    "price": "95.50",
+    "colour": "Black",
+    "size": "L",
+    "description": "Swap out your usual canvas tote for the Addison bag -- featuring a hanging chain strap intertwined with knotted rope, it will bring an elevated, nautical-inspired touch to your warm-weather outfits. It opens up to reveal a roomy interior that can fit everything you need for the day and more, complete with a magnetic closure to keep your essentials secure yet easily accessible.",
+    "image": "../src/assets/bags/addison-black.webp"
+  },
+  {
+    "id": 2,
+    "name": "Addison Tote Bag - Taupe",
+    "category": "bag",
+    "price": "95.50",
+    "colour": "Taupe",
+    "size": "L",
+    "description": "This Addison canvas tote bag is big on functionality. With a roomy main compartment along with multiple front and side pockets, this bag ample room for all your essentials and more -- both inside and outside your bag. It also comes with a detachable chain-knot strap for added style points.",
+    "image": "../src/assets/bags/addison-taupe.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Beryl Tote Bag - Black",
+    "category": "bag",
+    "price": "85.50",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/bags/beryl-black.webp"
+  },
+  {
+    "id": 4,
+    "name": "Beryl Tote Bag - Taupe",
+    "category": "bag",
+    "price": "75.50",
+    "colour": "Taupe",
+    "size": "L",
+    "image": "../src/assets/bags/beryl-taupe.webp"
+  },
+  {
+    "id": 5,
+    "name": "Alva Tote Bag - Black",
+    "category": "bag",
+    "price": "120.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/bags/alva-black.webp"
+  },
+  {
+    "id": 6,
+    "name": "Klio Tote Bag - Cream",
+    "category": "bag",
+    "price": "125.00",
+    "colour": "Cream",
+    "size": "L",
+    "image": "../src/assets/bags/klio-cream.webp"
+  },
+  {
+    "id": 7,
+    "name": "Klio Tote Bag - Noir",
+    "category": "bag",
+    "price": "75.50",
+    "colour": "Noir",
+    "size": "L",
+    "image": "../src/assets/bags/klio-noir.webp"
+  },
+  {
+    "id": 8,
+    "name": "Noah Tote Bag - Clear",
+    "category": "bag",
+    "price": "100.00",
+    "colour": "Clear",
+    "size": "L",
+    "image": "../src/assets/bags/noah-clear.webp"
+  },
+  {
+    "id": 9,
+    "name": "Noah Tote Bag - Pink",
+    "category": "bag",
+    "price": "120.00",
+    "colour": "Pink",
+    "size": "L",
+    "image": "../src/assets/bags/noah-pink.webp"
+  },
+  {
+    "id": 10,
+    "name": "Easley Sandals - White",
+    "category": "sandals",
+    "price": "90.00",
+    "colour": "White",
+    "size": "L",
+    "image": "../src/assets/sandals/easley-white.webp"
+  },
+  {
+    "id": 11,
+    "name": "Easley Sandals - Toffee",
+    "category": "sandals",
+    "price": "90.00",
+    "colour": "Toffee",
+    "size": "L",
+    "image": "../src/assets/sandals/easley-toffee.webp"
+  },
+  {
+    "id": 12,
+    "name": "Easley Sandals - Black",
+    "category": "sandals",
+    "price": "90.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/sandals/easley-black.webp"
+  },
+  {
+    "id": 13,
+    "name": "Easley Croc Sandals - Black",
+    "category": "sandals",
+    "price": "90.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/sandals/easley croc-black.webp"
+  },
+  {
+    "id": 14,
+    "name": "Fannie Sandals - Black",
+    "category": "sandals",
+    "price": "120.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/sandals/fannie-black.webp"
+  },
+  {
+    "id": 15,
+    "name": "Fannie Sandals - Brown",
+    "category": "sandals",
+    "price": "110.00",
+    "colour": "Brown",
+    "size": "L",
+    "image": "../src/assets/sandals/fannie-brown.webp"
+  },
+  {
+    "id": 16,
+    "name": "Fannie Sandals - Cream",
+    "category": "sandals",
+    "price": "110.00",
+    "colour": "Cream",
+    "size": "L",
+    "image": "../src/assets/sandals/fannie-cream.webp"
+  },
+  {
+    "id": 17,
+    "name": "Fannie Sandals - Dark Brown",
+    "category": "sandals",
+    "price": "110.00",
+    "colour": "Brown",
+    "size": "L",
+    "image": "../src/assets/sandals/fannie-darkbrown.webp"
+  },
+  {
+    "id": 18,
+    "name": "Nadine Sandals - Black",
+    "category": "sandals",
+    "price": "80.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/sandals/nadine-black.webp"
+  },
+  {
+    "id": 19,
+    "name": "Nadine Sandals - White",
+    "category": "sandals",
+    "price": "80.00",
+    "colour": "White",
+    "size": "L",
+    "image": "../src/assets/sandals/nadine-white.webp"
+  },
+  {
+    "id": 20,
+    "name": "Suede Sandals - Black",
+    "category": "sandals",
+    "price": "95.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/sandals/suede-black.webp"
+  },
+  {
+    "id": 21,
+    "name": "Suede Sandals - Chalk",
+    "category": "sandals",
+    "price": "95.00",
+    "colour": "Chalk",
+    "size": "L",
+    "image": "../src/assets/sandals/suede-chalk.webp"
+  },
+  {
+    "id": 22,
+    "name": "Ankle-Strap - Black",
+    "category": "heels",
+    "price": "135.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/heels/ankle-strap-black.webp"
+  },
+  {
+    "id": 23,
+    "name": "Ankle-Strap - Brown",
+    "category": "heels",
+    "price": "135.00",
+    "colour": "Brown",
+    "size": "L",
+    "image": "../src/assets/heels/ankle-strap-brown.webp"
+  },
+  {
+    "id": 24,
+    "name": "Ankle-Strap - White",
+    "category": "heels",
+    "price": "135.00",
+    "colour": "White",
+    "size": "L",
+    "image": "../src/assets/heels/ankle-strap-white.webp"
+  },
+  {
+    "id": 25,
+    "name": "Easley - Caramel",
+    "category": "heels",
+    "price": "99.00",
+    "colour": "Caramel",
+    "size": "L",
+    "image": "../src/assets/heels/easley-caramel.webp"
+  },
+  {
+    "id": 26,
+    "name": "Easley - Black",
+    "category": "heels",
+    "price": "99.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/heels/easley-heels-black.webp"
+  },
+  {
+    "id": 27,
+    "name": "Leather Square-Toe - Black",
+    "category": "heels",
+    "price": "150.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/heels/square-toe-black.webp"
+  },
+  {
+    "id": 28,
+    "name": "Whitney - Brown",
+    "category": "heels",
+    "price": "90.00",
+    "colour": "Brown",
+    "size": "L",
+    "image": "../src/assets/heels/whitney-brown.webp"
+  },
+  {
+    "id": 29,
+    "name": "Whitney - Chalk",
+    "category": "heels",
+    "price": "90.00",
+    "colour": "Chalk",
+    "size": "L",
+    "image": "../src/assets/heels/whitney-chalk.webp"
+  },
+  {
+    "id": 30,
+    "name": "Rayne Slingback - Chalk",
+    "category": "slingback",
+    "price": "98.00",
+    "colour": "Chalk",
+    "size": "L",
+    "image": "../src/assets/slingback/rayne-chalk.webp"
+  },
+  {
+    "id": 31,
+    "name": "Rayne Slingback - Black",
+    "category": "slingback",
+    "price": "98.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/slingback/rayne-black.webp"
+  },
+  {
+    "id": 32,
+    "name": "Rayne Slingback - Cognac",
+    "category": "slingback",
+    "price": "98.00",
+    "colour": "Cognac",
+    "size": "L",
+    "image": "../src/assets/slingback/rayne-cognac.webp"
+  },
+  {
+    "id": 33,
+    "name": "Double Buckle-Strap Slingback - Black",
+    "category": "slingback",
+    "price": "120.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/slingback/double-buckle-strap-black.webp"
+  },
+  {
+    "id": 34,
+    "name": "Double Buckle-Strap Slingback - Brown",
+    "category": "slingback",
+    "price": "120.00",
+    "colour": "Brown",
+    "size": "L",
+    "image": "../src/assets/slingback/double-buckle-strap-brown.webp"
+  },
+  {
+    "id": 35,
+    "name": "Double Buckle-Strap Slingback - Cream",
+    "category": "slingback",
+    "price": "120.00",
+    "colour": "Cream",
+    "size": "L",
+    "image": "../src/assets/slingback/double-buckle-strap-cream.webp"
+  },
+  {
+    "id": 36,
+    "name": "Wynn Slingback - Black",
+    "category": "slingback",
+    "price": "120.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/slingback/wynn-black.webp"
+  },
+  {
+    "id": 37,
+    "name": "Wynn Slingback - White",
+    "category": "slingback",
+    "price": "120.00",
+    "colour": "White",
+    "size": "L",
+    "image": "../src/assets/slingback/wynn-white.webp"
+  },
+  {
+    "id": 38,
+    "name": "Alva Top Handle Bag - Cream",
+    "category": "top handle bag",
+    "price": "130.00",
+    "colour": "Cream",
+    "size": "L",
+    "image": "../src/assets/tophandlebags/alva-cream.webp"
+  },
+  {
+    "id": 39,
+    "name": "Alva Top Handle Bag - Black",
+    "category": "top handle bag",
+    "price": "130.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/tophandlebags/alva-black.webp"
+  },
+  {
+    "id": 40,
+    "name": "Alva Top Handle Bag - Silver",
+    "category": "top handle bag",
+    "price": "120.00",
+    "colour": "Silver",
+    "size": "L",
+    "image": "../src/assets/tophandlebags/alva-silver.webp"
+  },
+  {
+    "id": 41,
+    "name": "Lennie Top Handle Bag - Cream",
+    "category": "top handle bag",
+    "price": "120.00",
+    "colour": "Cream",
+    "size": "L",
+    "image": "../src/assets/tophandlebags/lennie-cream.webp"
+  },
+  {
+    "id": 42,
+    "name": "Lennie Top Handle Bag - Black",
+    "category": "top handle bag",
+    "price": "120.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/tophandlebags/lennie-black.webp"
+  },
+  {
+    "id": 43,
+    "name": "Satin Top Handle Bag - Black",
+    "category": "top handle bag",
+    "price": "115.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/tophandlebags/satin-black.webp"
+  },
+  {
+    "id": 44,
+    "name": "Arwen Top Handle Bag - Tartan",
+    "category": "top handle bag",
+    "price": "120.00",
+    "colour": "Tartan",
+    "size": "L",
+    "image": "../src/assets/tophandlebags/arwen-tartan.webp"
+  },
+  {
+    "id": 45,
+    "name": "Arwen Top Handle Bag - Burgundy",
+    "category": "top handle bag",
+    "price": "100.00",
+    "colour": "Burgundy",
+    "size": "L",
+    "image": "../src/assets/tophandlebags/arwen-burgundy.webp"
+  },
+  {
+    "id": 46,
+    "name": "Aura Sunglasses - Black",
+    "category": "sunglasses",
+    "price": "100.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/sunglasses/aura-black.webp"
+  },
+  {
+    "id": 47,
+    "name": "Brea Sunglasses - Black",
+    "category": "sunglasses",
+    "price": "100.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/sunglasses/brea-black.webp"
+  },
+  {
+    "id": 48,
+    "name": "Brea Sunglasses - Blue",
+    "category": "sunglasses",
+    "price": "100.00",
+    "colour": "Blue",
+    "size": "L",
+    "image": "../src/assets/sunglasses/brea-blue.webp"
+  },
+  {
+    "id": 49,
+    "name": "Brea Sunglasses - Grey",
+    "category": "sunglasses",
+    "price": "100.00",
+    "colour": "Grey",
+    "size": "L",
+    "image": "../src/assets/sunglasses/brea-grey.webp"
+  },
+  {
+    "id": 50,
+    "name": "Bunny Charm - White",
+    "category": "charm",
+    "price": "10.00",
+    "colour": "White",
+    "size": "L",
+    "image": "../src/assets/charm/bunnycharm-white.webp"
+  },
+  {
+    "id": 51,
+    "name": "Cherry Charm - Red",
+    "category": "charm",
+    "price": "20.00",
+    "colour": "Red",
+    "size": "L",
+    "image": "../src/assets/charm/cherycharm-red.webp"
+  },
+  {
+    "id": 52,
+    "name": "Swing Ring Charm - Blue",
+    "category": "charm",
+    "price": "20.00",
+    "colour": "Blue",
+    "size": "L",
+    "image": "../src/assets/charm/swingcharm-blue.webp"
+  },
+  {
+    "id": 53,
+    "name": "Heart Charm - Bubble Gum Pink",
+    "category": "charm",
+    "price": "15.00",
+    "colour": "Pink",
+    "size": "L",
+    "image": "../src/assets/charm/heartcharm-pink.webp"
+  },
+  {
+    "id": 54,
+    "name": "Panda Charm - White",
+    "category": "charm",
+    "price": "15.00",
+    "colour": "White",
+    "size": "L",
+    "image": "../src/assets/charm/pandacharm-white.webp"
+  },
+  {
+    "id": 55,
+    "name": "Strawberry Charm - Multi",
+    "category": "charm",
+    "price": "99.90",
+    "colour": "Multi",
+    "size": "L",
+    "image": "../src/assets/charm/strawberrycharm-multi.webp"
+  }, 
+  {
+    "id": 56,
+    "name": "Grape Charm - Multi",
+    "category": "charm",
+    "price": "99.90",
+    "colour": "Multi",
+    "size": "L",
+    "image": "../src/assets/charm/grapecharm-multi.webp"
+  }, 
+  {
+    "id": 57,
+    "name": "Cherry Bear Charm - Multi",
+    "category": "charm",
+    "price": "99.90",
+    "colour": "Multi",
+    "size": "L",
+    "image": "../src/assets/charm/cherrybearcharm-multi.webp"
+  },
+  {
+    "id": 58,
+    "name": "Sansa Tote Bag - Taupe",
+    "category": "9to5",
+    "price": "105.00",
+    "colour": "Taupe",
+    "size": "L",
+    "image": "../src/assets/9to5/sansa-taupe.webp"
+  },
+  {
+    "id": 59,
+    "name": "Sansa Tote Bag - Plum",
+    "category": "9to5",
+    "price": "105.00",
+    "colour": "Plum",
+    "size": "L",
+    "image": "../src/assets/9to5/sansa-plum.webp"
+  },
+  {
+    "id": 60,
+    "name": "Sansa Tote Bag - Chocolate",
+    "category": "9to5",
+    "price": "105.00",
+    "colour": "Chocolate",
+    "size": "L",
+    "image": "../src/assets/9to5/sansa-chocolate.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Sansa Tote Bag - Dark Moss",
+    "category": "9to5",
+    "price": "105.00",
+    "colour": "Dark Moss",
+    "size": "L",
+    "image": "../src/assets/9to5/sansa-darkmoss.webp"
+  },
+  {
+    "id": 62,
+    "name": "Sansa Tote Bag - Noir",
+    "category": "9to5",
+    "price": "105.00",
+    "colour": "Noir",
+    "size": "L",
+    "image": "../src/assets/9to5/sansa-noir.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Harper Top Handle Bag - White",
+    "category": "9to5",
+    "price": "85.00",
+    "colour": "White",
+    "size": "L",
+    "image": "../src/assets/9to5/harper-white.webp"
+  },
+  {
+    "id": 64,
+    "name": "Harper Top Handle Bag - Taupe",
+    "category": "9to5",
+    "price": "85.00",
+    "colour": "Taupe",
+    "size": "L",
+    "image": "../src/assets/9to5/harper-taupe.webp"
+  },
+  {
+    "id": 65,
+    "name": "Harper Top Handle Bag - Black",
+    "category": "9to5",
+    "price": "105.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/9to5/harper-black.webp"
+  },
+  {
+    "id": 66,
+    "name": "Shalia Basket Bag - Pink",
+    "category": "gift",
+    "price": "120.00",
+    "colour": "Pink",
+    "size": "L",
+    "image": "../src/assets/gifts/shalia-pink.webp"
+  },
+  {
+    "id": 67,
+    "name": "Cherry Charm - Red",
+    "category": "gift",
+    "price": "23.00",
+    "colour": "Red",
+    "size": "L",
+    "image": "../src/assets/gifts/cherry-red.webp"
+  },
+  {
+    "id": 68,
+    "name": "Raffia Bowling Bag - Neutral Raffia",
+    "category": "gift",
+    "price": "99.00",
+    "colour": "Neutral",
+    "size": "L",
+    "image": "../src/assets/gifts/raffiabag.webp"
+  },
+  {
+    "id": 69,
+    "name": "Pineapple Charm - Yellow",
+    "category": "gift",
+    "price": "25.00",
+    "colour": "Yellow",
+    "size": "L",
+    "image": "../src/assets/gifts/pineapple-yellow.webp"
+  },
+  {
+    "id": 70,
+    "name": "Ladybug Charm - Red",
+    "category": "gift",
+    "price": "25.00",
+    "colour": "Red",
+    "size": "L",
+    "image": "../src/assets/gifts/ladybug-red.webp"
+  },
+  {
+    "id": 71,
+    "name": "Everleigh Wallet - Pink",
+    "category": "gift",
+    "price": "33.90",
+    "colour": "Pink",
+    "size": "L",
+    "image": "../src/assets/gifts/wallet-pink.webp"
+  },
+  {
+    "id": 72,
+    "name": "Gabine Swarovski Necklace - Gold",
+    "category": "gift",
+    "price": "50.00",
+    "colour": "Gold",
+    "size": "L",
+    "image": "../src/assets/gifts/necklace-gold.webp"
+  },
+  {
+    "id": 73,
+    "name": "Apfra Pouch - Cream",
+    "category": "gift",
+    "price": "40.00",
+    "colour": "Cream",
+    "size": "L",
+    "image": "../src/assets/gifts/pouch-cream.webp"
+  },
+  {
+    "id": 74,
+    "name": "Kristine Wallet - Silver",
+    "category": "party",
+    "price": "69.90",
+    "colour": "Silver",
+    "size": "L",
+    "image": "../src/assets/party-edit/wallet-silver.webp"
+  },
+  {
+    "id": 75,
+    "name": "Kristine Wallet - Noir",
+    "category": "party",
+    "price": "69.90",
+    "colour": "Noir",
+    "size": "L",
+    "image": "../src/assets/party-edit/wallet-noir.webp"
+  },     
+  {
+    "id": 76,
+    "name": "Stiletto Heel - White",
+    "category": "party",
+    "price": "69.90",
+    "colour": "White",
+    "size": "L",
+    "image": "../src/assets/party-edit/heel-white.webp"
+  },
+  {
+    "id": 76,
+    "name": "Stiletto Heel - Mauve",
+    "category": "party",
+    "price": "69.90",
+    "colour": "Mauve",
+    "size": "L",
+    "image": "../src/assets/party-edit/heel-mauve.webp"
+  },
+  {
+    "id": 77,
+    "name": "Stiletto Heel - Gold",
+    "category": "party",
+    "price": "69.90",
+    "colour": "Gold",
+    "size": "L",
+    "image": "../src/assets/party-edit/heel-gold.webp"
+  },
+  {
+    "id": 78,
+    "name": "Stiletto Heel - Black",
+    "category": "party",
+    "price": "69.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/party-edit/heel-black.webp"
+  },
+  {
+    "id": 79,
+    "name": "Kadee Bag - Cream",
+    "category": "party",
+    "price": "85.90",
+    "colour": "Cream",
+    "size": "L",
+    "image": "../src/assets/party-edit/bag-cream.webp"
+  },
+  {
+    "id": 80,
+    "name": "Kadee Bag - Pink",
+    "category": "party",
+    "price": "85.90",
+    "colour": "Pink",
+    "size": "L",
+    "image": "../src/assets/party-edit/bag-pink.webp"
+  },
+  {
+    "id": 81,
+    "name": "Backpack - Grey",
+    "category": "campus",
+    "price": "89.90",
+    "colour": "Grey",
+    "size": "L",
+    "image": "../src/assets/on-campus/backpack-grey.webp"
+  },
+  {
+    "id": 82,
+    "name": "Backpack - Noir",
+    "category": "campus",
+    "price": "89.90",
+    "colour": "Noir",
+    "size": "L",
+    "image": "../src/assets/on-campus/backpack-noir.webp"
+  },
+  {
+    "id": 83,
+    "name": "Backpack - Cream",
+    "category": "campus",
+    "price": "89.90",
+    "colour": "Cream",
+    "size": "L",
+    "image": "../src/assets/on-campus/backpack-cream.webp"
+  },
+  {
+    "id": 84,
+    "name": "Backpack - Dark Brown",
+    "category": "campus",
+    "price": "89.90",
+    "colour": "Brown",
+    "size": "L",
+    "image": "../src/assets/on-campus/backpack-brown.webp"
+  },
+  {
+    "id": 85,
+    "name": "Bryna Backpack - Black",
+    "category": "campus",
+    "price": "89.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/on-campus/bryna-black.webp"
+  },
+  {
+    "id": 86,
+    "name": "Sneakers - White",
+    "category": "campus",
+    "price": "75.90",
+    "colour": "White",
+    "size": "L",
+    "image": "../src/assets/on-campus/sneakers-white.webp"
+  },
+  {
+    "id": 87,
+    "name": "Sneakers - Pink",
+    "category": "campus",
+    "price": "75.90",
+    "colour": "Pink",
+    "size": "L",
+    "image": "../src/assets/on-campus/sneakers-pink.webp"
+  },
+  {
+    "id": 88,
+    "name": "Sneakers - Silver",
+    "category": "campus",
+    "price": "75.90",
+    "colour": "Silver",
+    "size": "L",
+    "image": "../src/assets/on-campus/sneakers-silver.webp"
+  },
+  {
+    "id": 89,
+    "name": "Slingback Pumps - Burgundy",
+    "category": "trend",
+    "price": "65.90",
+    "colour": "Burgundy",
+    "size": "L",
+    "image": "../src/assets/trend/slingback-burgundy.webp"
+  },
+  {
+    "id": 90,
+    "name": "Slingback Pumps - Red",
+    "category": "trend",
+    "price": "65.90",
+    "colour": "Red",
+    "size": "L",
+    "image": "../src/assets/trend/slingback-red.webp"
+  },
+  {
+    "id": 91,
+    "name": "Slingback Pumps - Black",
+    "category": "trend",
+    "price": "65.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/trend/slingback-black.webp"
+  },
+  {
+    "id": 92,
+    "name": "Patent Bow Slingback Pumps - Burgundy",
+    "category": "trend",
+    "price": "65.90",
+    "colour": "Burgundy",
+    "size": "L",
+    "image": "../src/assets/trend/slingback-blackpatent.webp"
+  },
+  {
+    "id": 93,
+    "name": "Kitten-Heel - Black",
+    "category": "trend",
+    "price": "60.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/trend/kitten-heel-black.webp"
+  },
+  {
+    "id": 94,
+    "name": "Rayne Kitten-Heel - Black",
+    "category": "trend",
+    "price": "60.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/trend/kitten-heel2-black.webp"
+  },
+  {
+    "id": 95,
+    "name": "Slingback Flats - Black Textured",
+    "category": "trend",
+    "price": "60.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/trend/slingback-blacktexture.webp"
+  },
+  {
+    "id": 96,
+    "name": "Stiletto-Heel - Black Textured",
+    "category": "trend",
+    "price": "60.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "../src/assets/trend/heel-blacktexture.webp"
+  }        
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "CHARMIFY YOUR BAGS",
+    "category": "charm",
+    "image": "../src/assets/spotlight/charm.webp"
+  },
+  {
+    "id": 2,
+    "name": "9 TO 5",
+    "category": "9to5",
+    "image": "../src/assets/spotlight/9to5.webp"
+  },
+  {
+    "id": 3,
+    "name": "GIFTS FOR HER",
+    "category": "gift",
+    "image": "../src/assets/spotlight/gifts.webp"
+  },
+  {
+    "id": 4,
+    "name": "THE PARTY EDIT",
+    "category": "party",
+    "image": "../src/assets/spotlight/party.webp"
+  },
+  {
+    "id": 5,
+    "name": "ON CAMPUS",
+    "category": "campus",
+    "image": "../src/assets/spotlight/campus.webp"
+  },
+  {
+    "id": 6,
+    "name": "TREND ALERT",
+    "category": "trend",
+    "image": "../src/assets/spotlight/trend.webp"
+  }
+]

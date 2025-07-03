@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "BAGS",
+    "category": "bag",
+    "image": "../src/assets/bags.webp"
+  },
+  {
+    "id": 2,
+    "name": "FLATS",
+    "category": "sandals",
+    "image": "../src/assets/maryjanes.webp"
+  },
+  {
+    "id": 3,
+    "name": "HEELS",
+    "category": "heels",
+    "image": "../src/assets/heels/ankle-strap-white.webp"
+  },
+  {
+    "id": 4,
+    "name": "SLINGBACKS",
+    "category": "slingback",
+    "image": "../src/assets/slingbacks.webp"
+  },
+  {
+    "id": 5,
+    "name": "TOP HANDLE BAGS",
+    "category": "top handle bag",
+    "image": "../src/assets/tophandlebags.jpg"
+  },
+  {
+    "id": 6,
+    "name": "SUNGLASSES",
+    "category": "sunglasses",
+    "image": "../src/assets/sunglasses.webp"
+  }
+]
