@@ -8,19 +8,15 @@ const app = express()
 
 //middleware
 app.use(express.json())
-
-const corsOptions = {
-  origin: 'https://luxorashop-pi.vercel.app',
-  methods: ['POST', 'OPTIONS'],
-  credentials: true
-};
-app.use(cors(corsOptions))
-app.options('*', cors(corsOptions))
+app.use(cors())
 
 // routes
 import stripeRoute from './routes/stripe.js'
 
 app.use('/api/stripe', stripeRoute)
 
-export default app
+// server
+app.listen('4000', () => {
+  console.log("Server running on port 4000")
+})
 
