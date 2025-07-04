@@ -22,8 +22,5 @@ import stripeRoute from './routes/stripe.js'
 
 app.use('/api/stripe', stripeRoute)
 
-// server
-app.listen('4000', () => {
-  console.log("Server running on port 4000")
-})
+export default app
 
