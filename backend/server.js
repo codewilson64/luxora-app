@@ -11,7 +11,7 @@ app.use(express.json())
 
 const corsOptions = {
   origin: 'https://luxorashop-pi.vercel.app',
-  methods: ['POST'],
+  methods: ['POST', 'OPTIONS'],
   credentials: true
 };
 app.use(cors(corsOptions))
