@@ -9,7 +9,7 @@ const CheckoutBox = ({ products }) => {
   const handleCheckout = async () => {
     setLoading(true)
     try {
-      const response = await fetch('/api/stripe/create-checkout-session', {
+      const response = await fetch(`${import.meta.env.VITE_REACT_APP_BACKEND_BASEURL}/api/stripe/create-checkout-session`, {
         method: "POST",
         body: JSON.stringify(products),
         headers: {'Content-Type': 'application/json'}
