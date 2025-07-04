@@ -8,7 +8,11 @@ const app = express()
 
 //middleware
 app.use(express.json())
-app.use(cors())
+app.use(cors({
+  origin: 'https://luxorashop-pi.vercel.app', 
+  methods: ['POST'], 
+  credentials: true // to send cookies or auth headers
+}))
 
 // routes
 import stripeRoute from './routes/stripe.js'
